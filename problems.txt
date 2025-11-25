@@ -1,0 +1,10 @@
+1 - rows? columns?
+2 - what types of data?
+3 - missing data, which columns, rows?
+
+info() -- method
+no of rows and columns
+columns name
+data types
+non null counts
+memory usuage of the dataframe
