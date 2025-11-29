@@ -1,0 +1,6 @@
+student_id,full_name,age,class,math_score,eng_score,city,fee_paid,remarks
+101,Ram K,12.0,7A,78.0,81.0,Nagpur,Yes,Good
+102,Shyam R,13.0,7A,,55.0,Delhi,No,average
+103,rocky,,7B,68.0,,nagpur,yes,Missing data
+104,Priya S,12.0,7B,92.0,89.0,Mumbai,YES,Excellent
+105,Ram K,12.0,7A,78.0,81.0,Nagpur,Yes,Duplicate entry
