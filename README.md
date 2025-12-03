@@ -1,3 +1,8 @@
+
+Pandas course from Kaggle.
+https://www.kaggle.com/code/residentmario/indexing-selecting-assigning
+
+
 LEVEL 1 — Basics
 01_reading_files.py
 02_basic_dataframe_creation.py
